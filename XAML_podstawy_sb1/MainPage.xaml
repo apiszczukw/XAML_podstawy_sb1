@@ -17,5 +17,6 @@
         <TextBox x:Name="NazwiskoTbx" HorizontalAlignment="Left" Margin="300,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="50
 " Width="200" Background="#6666A5A4"/>
         <TextBlock HorizontalAlignment="Left" Margin="50,128,0,0" TextWrapping="Wrap" Text="Podaj nazwisko:" VerticalAlignment="Top" FontSize="20" FontFamily="Algerian" Foreground="Black"/>
+        <Button x:Name="ZapiszDoXmlBtn" Content="Zapisz do XMLa" Margin="0,271,0,0" VerticalAlignment="Top" Height="84" Background="#33246BDE" Foreground="Black" FontSize="40" FontFamily="Algerian" HorizontalAlignment="Center" Click="ZapiszDoXmlBtn_Click" Width="348"/>
     </Grid>
 </Page>
